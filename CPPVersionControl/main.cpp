@@ -11,6 +11,15 @@ void greet()
 
 }
 
+void say()
+{
+
+};
+void say1()
+{
+
+};
+
 int main()
 {
 	greet();
