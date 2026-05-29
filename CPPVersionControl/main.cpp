@@ -1,6 +1,7 @@
 #include <iostream>
 int main()
 {
-	std::cout << "hello world" << std::endl;
+	//print some text
+	std::cout << "welcome！ yeah！" << std::endl;
 
 }
