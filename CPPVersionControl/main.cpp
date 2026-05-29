@@ -1,10 +1,9 @@
 #include <iostream>
 void test()
 {
-
+	std::cout << "2" << std::endl;
 };
 
-void test2() {};
 void greet()
 {
 	//print some text
