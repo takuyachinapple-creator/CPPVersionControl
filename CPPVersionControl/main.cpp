@@ -1,5 +1,6 @@
 #include <iostream>
 
+void test2() {};
 void greet()
 {
 	//print some text
