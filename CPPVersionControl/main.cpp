@@ -1,7 +1,7 @@
 #include <iostream>
 void test()
 {
-	std::cout << "2" << std::endl;
+	std::cout << "123" << std::endl;
 };
 
 void greet()
